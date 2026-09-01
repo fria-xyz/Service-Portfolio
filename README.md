@@ -25,15 +25,6 @@ This repository contains documentation and proof of completed technical services
 - Basic Troubleshooting
 
 
-
-📂 Proof of Service
-
-Below are documented examples of completed services.
-
-💻 Laptop / PC Services
-
-📸 Service Documentation
-
 📞 Contact
 
 For inquiries, quotations, or service requests, feel free to contact me.
