@@ -25,40 +25,15 @@ This repository contains documentation and proof of completed technical services
 - Basic Troubleshooting
 
 
-## 📂 Proof of Service
+
+📂 Proof of Service
 
 Below are documented examples of completed services.
 
-### 💻 Laptop / PC Services
+💻 Laptop / PC Services
 
-**Windows Installation & System Setup**
+📸 Service Documentation
 
-Installation, driver configuration, software setup, and system optimization.
-
-**Hardware Repair & Replacement**
-
-Diagnosis and replacement of faulty or damaged components.
-
-### 📡 Network Services
-
-**Router & Wi-Fi Setup**
-
-Router configuration, network setup, and connectivity troubleshooting.
-
----
-
-## 📸 Service Documentation
-
-Photos and details of completed services are organized in this repository.
-
-> Customer information and other private details are excluded for privacy.
-
----
-
-## 📞 Contact
+📞 Contact
 
 For inquiries, quotations, or service requests, feel free to contact me.
-
----
-
-*Technical Service Portfolio*
